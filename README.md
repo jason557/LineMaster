@@ -1,7 +1,7 @@
 👋 Hi, This is Jason.
 👀 The Application developed under Windows 10 by Visual Studo 2022  C# WinForm.
 💞️ The LineMaster App makes screen copy and draw line, rectangle, ellipse, text and save to png file. 
-    It would be very useful to make picture note when you take tutorial from the Internet. 
+    It would be very useful to make picture note when you take tutorial from the Internet. The 14 Commit: Fix the SelectArea bug at 2022 12 27.
 📫 jason.fintech.2018@gmail.com
 Youtube Video: 
 👀 Download & Install the LineMaster  https://youtu.be/E8k9KCAT-aI  
